@@ -5,4 +5,4 @@ Git tracks changes.
 Git tracks changes of files.
 Creating a new branch is quick.
 Creating a new branch is quick and simple.
-dev test
+dev test and stash must &
