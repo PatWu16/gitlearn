@@ -12,3 +12,5 @@ test
 rebase test
 
 reset test
+
+master rebase test
