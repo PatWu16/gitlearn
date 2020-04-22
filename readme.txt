@@ -10,3 +10,6 @@ git commit -a test
 git commit --amend -a test second
 test
 rebase test
+
+
+reset test
