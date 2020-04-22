@@ -13,4 +13,8 @@ rebase test
 
 reset test
 
+dev rebase test
+
+after rebase test
+
 master rebase test
