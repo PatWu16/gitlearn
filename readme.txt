@@ -8,3 +8,4 @@ Creating a new branch is quick and simple.
 dev test and stash must &
 git commit -a test
 git commit --amend -a test
+test
