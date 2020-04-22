@@ -13,3 +13,5 @@ rebase test
 
 
 reset test
+
+before revert test
